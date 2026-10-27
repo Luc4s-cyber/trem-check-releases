@@ -1,0 +1,10 @@
+{
+  "version": "5.5.1",
+  "versionCode": 551,
+  "apkUrl": "https://github.com/Luc4s-cyber/trem-check-releases/releases/download/v5.5.1/trem-check-5.5.1.apk",
+  "sha256": "8dd3a3ae6d566a9081a6d6bdaf5906fe2d68903ae76659261544f4a3ab40266a",
+  "sizeBytes": 97278869,
+  "mandatory": false,
+  "minSupportedVersionCode": null,
+  "notes": "• Auto-atualização dentro do app: novas versões são baixadas e instaladas sem precisar de loja de aplicativos\n• Melhorias de desempenho e correções internas\n\nDepois desta instalação, as próximas atualizações chegam sozinhas em Configurações → Atualizações."
+}
